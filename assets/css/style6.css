@@ -1,0 +1,23 @@
+.separate {
+    border-bottom: 1px solid #ccc;
+}
+
+.icon-css{
+    width: 40PX;
+    height: 31.86px;
+}
+
+.navbar-avatar{
+    position: relative;
+}
+
+.navbar-avatar::before {
+    content: "";
+    border-width: 6px;
+    border-style: solid;
+    border-color: #000 transparent transparent transparent;
+    position: absolute;
+    left: 45px;
+    top: 13px;
+    /* border-radius: 1px; */
+}

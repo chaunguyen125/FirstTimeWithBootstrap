@@ -1,0 +1,32 @@
+.navbar-brand--edit{
+    font-size: 23.775px;
+    display: inline-block;
+    margin: 0;
+
+}
+
+.icon__style {
+    width: 40PX;
+    height: 31.86px;
+}
+
+.nav-css {
+    font-size: 16px;
+    color: #0d6efd;
+}
+
+.nav-focus{
+    background-color: #0d6efd ;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 16px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.container-fluid--style {
+    padding: 0;
+}

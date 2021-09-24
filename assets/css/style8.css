@@ -1,0 +1,16 @@
+
+.header__second {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.bg-custom {
+    background-color: #212529;
+}
+
+.pl-36 {
+    padding-left: 36PX !important;
+}
+
+.pr-0 {
+    padding-right: 0 !important;
+}

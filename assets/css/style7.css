@@ -1,0 +1,22 @@
+
+.header__first{
+    display: block;
+    min-height: 56px;
+}
+
+.header__second{
+    height: 74px;
+}
+.header__first,
+.header__second {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.icon-css{
+    width: 40PX;
+    height: 31.86px;
+}
+
+.text-24 {
+    font-size: 24px;
+}
